@@ -12,6 +12,7 @@ This project aims to detect fake news using an **ensemble approach** that combin
 - LSTM (Long Short-Term Memory) 🔄
 
 ## 📂 Dataset
+Dataset link: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 The dataset consists of two CSV files:
 - **Fake.csv** – Contains fake news articles ❌
 - **True.csv** – Contains real news articles ✅
